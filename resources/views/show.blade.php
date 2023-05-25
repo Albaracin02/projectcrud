@@ -81,7 +81,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Attendance Summary</h5>
+                        <h5 class="card-title">Attendance:</h5>
                         <ul id="attendance-summary"></ul>
                     </div>
                 </div>
